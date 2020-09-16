@@ -5,7 +5,7 @@ from .models.customer import Customer
 
 print('this is my new version1 change')
 print('this is my new change')
-print('this is my new change')
+
 print('this is my new change')
 
 class AdminProduct(admin.ModelAdmin):
@@ -19,3 +19,4 @@ admin.site.register(Category,AdminCategory)
 admin.site.register(Customer)
 
 print('this is my version1 by git change')
+print('this is my new change')
