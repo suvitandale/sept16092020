@@ -2,7 +2,7 @@ from django.contrib import admin
 from django.urls import path
 from .views import login,signup,home
 
-print('This is my 1st change')
+print('This is my 1st+1 by git change')
 print('This is my 2nd change')
 print('This is my 3rd change')
 
