@@ -3,7 +3,10 @@ from .models.product import Product
 from .models.category import Category
 from .models.customer import Customer
 
-print('this is my ew change')
+print('this is my new version1 change')
+print('this is my new change')
+print('this is my new change')
+print('this is my new change')
 
 class AdminProduct(admin.ModelAdmin):
     list_display = ['name','price','category','description']
