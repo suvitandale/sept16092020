@@ -19,3 +19,5 @@ admin.site.register(Category,AdminCategory)
 admin.site.register(Customer)
 
 print('this is my version1 by git change')
+
+print('this is my version1 by git change')
