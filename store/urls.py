@@ -3,6 +3,8 @@ from django.urls import path
 from .views import login,signup,home
 
 print('This is my 1st change')
+print('This is my 2nd change')
+print('This is my 3rd change')
 
 urlpatterns = [
     path('',home.index,name='homepage'),
